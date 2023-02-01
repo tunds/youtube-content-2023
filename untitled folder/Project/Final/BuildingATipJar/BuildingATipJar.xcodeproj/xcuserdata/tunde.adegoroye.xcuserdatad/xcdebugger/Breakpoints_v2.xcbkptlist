@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "13B19278-EA2B-4A14-B6B3-C491B1550A03"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBCE51ED-F778-4C26-B5B4-9735349C5CFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BuildingATipJar/TipsStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "retrieveProducts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9E3C83D-0D23-48D5-985A-3B702BDEEBF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BuildingATipJar/TipsStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "retrieveProducts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B787557-7B43-48E4-9762-895F9AEAF042"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BuildingATipJar/TipsStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "retrieveProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0B787557-7B43-48E4-9762-895F9AEAF042 - 685a8a4e890e8f8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BuildingATipJar.TipsStore.retrieveProducts() async -&gt; ()"
+                  moduleName = "BuildingATipJar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Seagate/Youtube/2023/YT/Build%20A%20Tip%20Jar%20Using%20StoreKit2/Project/Final/BuildingATipJar/BuildingATipJar/TipsStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "0B787557-7B43-48E4-9762-895F9AEAF042 - 73d7509211a0b02b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (StoreKit.Product, StoreKit.Product) -&gt; Swift.Bool in BuildingATipJar.TipsStore.retrieveProducts() async -&gt; ()"
+                  moduleName = "BuildingATipJar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Seagate/Youtube/2023/YT/Build%20A%20Tip%20Jar%20Using%20StoreKit2/Project/Final/BuildingATipJar/BuildingATipJar/TipsStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E93586B-4701-4329-86A7-39EC1D451A20"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BuildingATipJar/TipsStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "retrieveProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E93586B-4701-4329-86A7-39EC1D451A20 - d8c8858775d007b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BuildingATipJar.TipsStore.retrieveProducts() async -&gt; ()"
+                  moduleName = "BuildingATipJar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Seagate/Youtube/2023/YT/Build%20A%20Tip%20Jar%20Using%20StoreKit2/Project/Final/BuildingATipJar/BuildingATipJar/TipsStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "0E93586B-4701-4329-86A7-39EC1D451A20 - d162586b4df02df5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for BuildingATipJar.TipsStore.retrieveProducts() async -&gt; ()"
+                  moduleName = "BuildingATipJar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Seagate/Youtube/2023/YT/Build%20A%20Tip%20Jar%20Using%20StoreKit2/Project/Final/BuildingATipJar/BuildingATipJar/TipsStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "0E93586B-4701-4329-86A7-39EC1D451A20 - 5fad8e6d6767d3ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for BuildingATipJar.TipsStore.retrieveProducts() async -&gt; ()"
+                  moduleName = "BuildingATipJar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Seagate/Youtube/2023/YT/Build%20A%20Tip%20Jar%20Using%20StoreKit2/Project/Final/BuildingATipJar/BuildingATipJar/TipsStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

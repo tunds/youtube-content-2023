@@ -1,0 +1,86 @@
+{
+  "identifier" : "0D7DCC9E",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "4855EDD7",
+      "localizations" : [
+        {
+          "description" : "Treat me to a slice of Pizza",
+          "displayName" : "Gimme a slice 🍕",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Treat me to a slice of Pizza",
+          "displayName" : "Gimme a slice 🍕",
+          "locale" : "en_GB"
+        }
+      ],
+      "productID" : "com.tundsdev.BuildingATipJar.tinyTip",
+      "referenceName" : "Tiny Tip",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "73FF37DF",
+      "localizations" : [
+        {
+          "description" : "Treat me to a Cruller doughnut (da best)",
+          "displayName" : "Gimme a ring 🍩 ",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.tundsdev.BuildingATipJar.smallTip",
+      "referenceName" : "Small Tip",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "88AAF939",
+      "localizations" : [
+        {
+          "description" : "Treat me to a big mac",
+          "displayName" : "Gimme a burger 🍔",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.tundsdev.BuildingATipJar.mediumTip",
+      "referenceName" : "Medium Tip",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "10.99",
+      "familyShareable" : false,
+      "internalID" : "AFA88F60",
+      "localizations" : [
+        {
+          "description" : "You must really like me 😘",
+          "displayName" : "Gimme a steak 🥩",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.tundsdev.BuildingATipJar.largeTip",
+      "referenceName" : "Large Tip",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_billingIssuesEnabled" : true,
+    "_failTransactionsEnabled" : false,
+    "_storefront" : "GBR",
+    "_storeKitError" : 0
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

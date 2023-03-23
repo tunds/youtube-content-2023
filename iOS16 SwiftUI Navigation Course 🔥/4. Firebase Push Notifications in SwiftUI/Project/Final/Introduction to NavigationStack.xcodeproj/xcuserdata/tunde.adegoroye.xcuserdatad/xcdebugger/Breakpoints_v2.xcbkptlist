@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B05DC882-AA41-4C06-8154-22D18583C75D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "269D2C76-187F-4096-98C6-BEC60DA43873"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Introduction to NavigationStack/Introduction_to_NavigationStackApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "userNotificationCenter(_:willPresent:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D3EB7D5-00E1-430C-A0CE-F9FFF615A0BB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Introduction to NavigationStack/Introduction_to_NavigationStackApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "userNotificationCenter(_:didReceive:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D3EB7D5-00E1-430C-A0CE-F9FFF615A0BB - 9362708b81f5065f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Introduction_to_NavigationStack.MyAppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse) async -&gt; ()"
+                  moduleName = "Introduction to NavigationStack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Seagate/Youtube/2023/YT/iOS16%20NavigationStack%20&amp;%20NavigationPath/Projects/4.%20Firebase%20Push%20Notifications%20Deep%20Links%20In%20SwiftUI/Project/Final/Introduction%20to%20NavigationStack/Introduction_to_NavigationStackApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "4D3EB7D5-00E1-430C-A0CE-F9FFF615A0BB - 9362708b81f5065f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Introduction_to_NavigationStack.MyAppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse) async -&gt; ()"
+                  moduleName = "Introduction to NavigationStack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Seagate/Youtube/2023/YT/iOS16%20NavigationStack%20&amp;%20NavigationPath/Projects/4.%20Firebase%20Push%20Notifications%20Deep%20Links%20In%20SwiftUI/Project/Final/Introduction%20to%20NavigationStack/Introduction_to_NavigationStackApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "880">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1FB157C-F631-448F-810D-F433E9A2A65E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Introduction to NavigationStack/Introduction_to_NavigationStackApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "userNotificationCenter(_:didReceive:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F1FB157C-F631-448F-810D-F433E9A2A65E - 9362708b81f5065f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Introduction_to_NavigationStack.MyAppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse) async -&gt; ()"
+                  moduleName = "Introduction to NavigationStack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Seagate/Youtube/2023/YT/iOS16%20NavigationStack%20&amp;%20NavigationPath/Projects/4.%20Firebase%20Push%20Notifications%20Deep%20Links%20In%20SwiftUI/Project/Final/Introduction%20to%20NavigationStack/Introduction_to_NavigationStackApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "F1FB157C-F631-448F-810D-F433E9A2A65E - 9362708b81f5065f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Introduction_to_NavigationStack.MyAppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse) async -&gt; ()"
+                  moduleName = "Introduction to NavigationStack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Seagate/Youtube/2023/YT/iOS16%20NavigationStack%20&amp;%20NavigationPath/Projects/4.%20Firebase%20Push%20Notifications%20Deep%20Links%20In%20SwiftUI/Project/Final/Introduction%20to%20NavigationStack/Introduction_to_NavigationStackApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "880">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "493E1370-F17E-4C0C-96D1-ED45ED43BCFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Introduction to NavigationStack/Introduction_to_NavigationStackApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "userNotificationCenter(_:didReceive:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2741F171-18ED-48B3-873F-D1ED0E04517A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Introduction to NavigationStack/Introduction_to_NavigationStackApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "userNotificationCenter(_:didReceive:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2741F171-18ED-48B3-873F-D1ED0E04517A - 946f57d67cc8e4b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in Introduction_to_NavigationStack.MyAppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse) async -&gt; ()"
+                  moduleName = "Introduction to NavigationStack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Seagate/Youtube/2023/YT/iOS16%20NavigationStack%20&amp;%20NavigationPath/Projects/4.%20Firebase%20Push%20Notifications%20Deep%20Links%20In%20SwiftUI/Project/Final/Introduction%20to%20NavigationStack/Introduction_to_NavigationStackApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "2741F171-18ED-48B3-873F-D1ED0E04517A - dcce059b10a2d4e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in Introduction_to_NavigationStack.MyAppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse) async -&gt; ()"
+                  moduleName = "Introduction to NavigationStack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Seagate/Youtube/2023/YT/iOS16%20NavigationStack%20&amp;%20NavigationPath/Projects/4.%20Firebase%20Push%20Notifications%20Deep%20Links%20In%20SwiftUI/Project/Final/Introduction%20to%20NavigationStack/Introduction_to_NavigationStackApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "2741F171-18ED-48B3-873F-D1ED0E04517A - c8b26a3998a3b8bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in Introduction_to_NavigationStack.MyAppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse) async -&gt; ()"
+                  moduleName = "Introduction to NavigationStack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Seagate/Youtube/2023/YT/iOS16%20NavigationStack%20&amp;%20NavigationPath/Projects/4.%20Firebase%20Push%20Notifications%20Deep%20Links%20In%20SwiftUI/Project/Final/Introduction%20to%20NavigationStack/Introduction_to_NavigationStackApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Sangria Time 🍹",
+        "isCritical": true,
+        "isCompleted": false,
+        "category": null,
+        "imageName": "holiday"
+    },
+    {
+        "title": "Go & get wedding suit",
+        "isCritical": false,
+        "isCompleted": true,
+        "category": null
+    },
+    {
+        "title": "Go visit family",
+        "isCritical": true,
+        "isCompleted": false,
+        "category": {
+            "title": "🏠 Family"
+        }
+    }
+]
